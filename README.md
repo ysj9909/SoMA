@@ -15,4 +15,7 @@ Nevertheless, existing PEFT methods still struggle to strike a balance between p
 
 ## Video Inference Results
 
-[![snow]](https://github.com/ysj9909/DG-SoRA/releases/download/videos/snow.mp4)
+<video controls width="600">
+  <source src="https://github.com/ysj9909/DG-SoRA/releases/download/videos/snow.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
