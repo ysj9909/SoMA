@@ -1,6 +1,8 @@
 # SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning
 Seokju Yun, Seunghye Chae, Dongheon Lee, Youngmin Ro
 
+### [Project Page](https://ysj9909.github.io/SoRA.github.io/) | [arXiv](https://arxiv.org/abs/2412.04077)
+
 ![teaser](assets/teaser.png)
 
 <details>
