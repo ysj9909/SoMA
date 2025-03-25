@@ -6,7 +6,7 @@ Seokju Yun, Seunghye Chae, Dongheon Lee, Youngmin Ro
 
 ### [Project Page](https://ysj9909.github.io/SoRA.github.io/) | [arXiv](https://arxiv.org/abs/2412.04077)
 
-![teaser](assets/teaser.png)
+![teaser](assets/teaser_soma.png)
 
 <details>
   <summary>
@@ -19,11 +19,11 @@ Nevertheless, existing PEFT methods still struggle to strike a balance between p
 <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">
     <h2 class="title">BibTeX</h2>
-    <pre><code>@Article{yun2024sora,
-      title        = {SoRA: Singular Value Decomposed Low-Rank Adaptation for Domain Generalizable Representation Learning},
+    <pre><code>@Article{yun2024soma,
+      title        = {SoMA: Singular Value Decomposed Minor Components Adaptation for Domain Generalizable Representation Learning},
       author       = {Yun, Seokju and Chae, Seunghye and Lee, Dongheon and Ro, Youngmin},
-      journal      = {arXiv preprint arXiv:2412.04077},
-      year         = {2024}
+      journal      = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+      year         = {2025}
 }</code></pre>
   </div>
 </section>
