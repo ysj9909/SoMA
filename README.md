@@ -1,4 +1,4 @@
-# SoMA: Singular Value Decomposed Minor Components Adaptation for Domain Generalizable Representation Learning
+# [CVPR 2025] SoMA: Singular Value Decomposed Minor Components Adaptation for Domain Generalizable Representation Learning
 Seokju Yun, Seunghye Chae, Dongheon Lee, Youngmin Ro
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/sora-singular-value-decomposed-low-rank/domain-adaptation-on-cityscapes-to-acdc)](https://paperswithcode.com/sota/domain-adaptation-on-cityscapes-to-acdc?p=sora-singular-value-decomposed-low-rank) <br />	
@@ -49,7 +49,7 @@ Nevertheless, existing PEFT methods still struggle to strike a balance between p
 
 ## Domain Generalized Object Detection Performance (DINOv2)
 
-|Setting |Crop Size |DS|NC|DR|NR|DF|Config|Adapter&Head Checkpoint|
+|Setting |Input Size|DS|NC|DR|NR|DF|Config|Adapter&Head Checkpoint|
 |:---:|:---:|:---:|:---:| :---:| :---:| :---:| :---:| :---:|
 |Clear to Adverse Weather|1024 |69.4|59.3|59.3|47.6|51.0|[config](-)| [checkpoint](https://github.com/ysj9909/SoMA/releases/download/v1.0/soma_dinov2-L_dgod_best.pth)
 
