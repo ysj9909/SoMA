@@ -21,18 +21,16 @@ Nevertheless, existing PEFT methods still struggle to strike a balance between p
 
 **Important Notice**: The abbreviation for the method has been changed from `SoRA` to `SoMA`. However, please note that this change has not been reflected in the code.
 
+<br>
 
-<section class="section" id="BibTeX">
-  <div class="container is-max-desktop content">
-    <h2 class="title">BibTeX</h2>
-    <pre><code>@Article{yun2024soma,
-      title        = {SoMA: Singular Value Decomposed Minor Components Adaptation for Domain Generalizable Representation Learning},
-      author       = {Yun, Seokju and Chae, Seunghye and Lee, Dongheon and Ro, Youngmin},
-      journal      = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-      year         = {2025}
-}</code></pre>
-  </div>
-</section>
+```bibtex
+@inproceedings{yun2024soma,
+  title={SoMA: Singular Value Decomposed Minor Components Adaptation for Domain Generalizable Representation Learning},
+  author={Yun, Seokju and Chae, Seunghye and Lee, Dongheon and Ro, Youngmin},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2025}
+}
+```
 
 ## Domain Generalized Semantic Segmentation Performance (DINOv2)
 
