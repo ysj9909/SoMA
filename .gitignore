@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+
+work_dirs/
+checkpoints/
