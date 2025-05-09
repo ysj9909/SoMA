@@ -49,7 +49,7 @@ Nevertheless, existing PEFT methods still struggle to strike a balance between p
 
 |Setting |Input Size|DS|NC|DR|NR|DF|Config|Adapter&Head Checkpoint|
 |:---:|:---:|:---:|:---:| :---:| :---:| :---:| :---:| :---:|
-|Clear to Adverse Weather|1024 |69.4|59.3|59.3|47.6|51.0|[config](-)| [checkpoint](https://github.com/ysj9909/SoMA/releases/download/v1.0/soma_dinov2-L_dgod_best.pth)
+|Clear to Adverse Weather|1024 |69.4|59.3|59.3|47.6|51.0|[config](https://github.com/ysj9909/SoMA/blob/main/DGOD/configs/sora/sora_dinov2-L_codetr_dg.py)| [checkpoint](https://github.com/ysj9909/SoMA/releases/download/v1.0/soma_dinov2-L_dgod_best.pth)
 
 ## Environment Setup
 To set up your environment, execute the following commands:
