@@ -24,11 +24,13 @@ Nevertheless, existing PEFT methods still struggle to strike a balance between p
 <br>
 
 ```bibtex
-@inproceedings{yun2024soma,
-  title={SoMA: Singular Value Decomposed Minor Components Adaptation for Domain Generalizable Representation Learning},
-  author={Yun, Seokju and Chae, Seunghye and Lee, Dongheon and Ro, Youngmin},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  year={2025}
+@InProceedings{Yun_2025_CVPR,
+    author    = {Yun, Seokju and Chae, Seunghye and Lee, Dongheon and Ro, Youngmin},
+    title     = {SoMA: Singular Value Decomposed Minor Components Adaptation for Domain Generalizable Representation Learning},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {25602-25612}
 }
 ```
 
