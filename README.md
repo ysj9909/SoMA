@@ -1,9 +1,9 @@
 # [CVPR 2025] SoMA: Singular Value Decomposed Minor Components Adaptation for Domain Generalizable Representation Learning
 Seokju Yun, Seunghye Chae, Dongheon Lee, Youngmin Ro
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/soma-singular-value-decomposed-minor/domain-adaptation-on-cityscapes-to-acdc)](https://paperswithcode.com/sota/domain-adaptation-on-cityscapes-to-acdc?p=soma-singular-value-decomposed-minor) <br />	
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/soma-singular-value-decomposed-minor/domain-generalization-on-gta-to-avg)](https://paperswithcode.com/sota/domain-generalization-on-gta-to-avg?p=soma-singular-value-decomposed-minor)
-
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/sora-singular-value-decomposed-low-rank/domain-adaptation-on-cityscapes-to-acdc)](https://paperswithcode.com/sota/domain-adaptation-on-cityscapes-to-acdc?p=sora-singular-value-decomposed-low-rank) <br />	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/sora-singular-value-decomposed-low-rank/domain-generalization-on-gta-to-avg)](https://paperswithcode.com/sota/domain-generalization-on-gta-to-avg?p=sora-singular-value-decomposed-low-rank)
 
 ### [Project Page](https://ysj9909.github.io/SoRA.github.io/) | [arXiv](https://arxiv.org/abs/2412.04077)
 
